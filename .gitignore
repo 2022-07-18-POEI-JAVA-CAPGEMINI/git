@@ -1,0 +1,6 @@
+/*
+!.gitignore
+!interns
+!README.md
+/**/*.pdf
+**/correction*
