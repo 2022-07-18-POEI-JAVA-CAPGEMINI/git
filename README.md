@@ -95,7 +95,7 @@ Sert à dire à git qu'on vient de passer à une nouvelle version de son projet.
 
 17.	Récupérer les modifications depuis le dépôt distant (GitHub vers local) :
 - `git pull origin main`
-`pull` = `fetch` + `merge`
+- `pull` = `fetch` + `merge`
 
 ## Différences entre 2 commits
 

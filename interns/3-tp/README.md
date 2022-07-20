@@ -69,7 +69,7 @@ Chaque propriétaire impose ses propres exigences (généralement présent dans 
 
 ### Tâches du *owner* après le lancement du projet
 
-*Attendre de recevoir les demandes de *pull requests* des autres dévéloppeurs avant de faire la suite.*
+***Attendre de recevoir les demandes de pull requests des autres dévéloppeurs avant de faire la suite.***
 
 5. Depuis GitHub, acceptez ou rejetez les demandes  *pull requests* des développeurs.
    - En cas de rejet, indiquez au(x) développeur(s) le(s) motif(s) en utilisant le champ de commentaire proposé par GitHub;
@@ -133,7 +133,7 @@ PS : vous pouvez également utilisé la commande suivante : `git checkout -b fea
 
 ### Tâches du premier développeur après l'ajout des prix par le *owner*
 
-*Attendre d'être notifé par le *owner* de l'ajout des prix avant de faire la suite.
+***Attendre d'être notifé par le owner de l'ajout des prix avant de faire la suite.***
 
 7. En local, après avoir été notifié de l'ajout des prix par le *owner*.
 
@@ -172,7 +172,7 @@ PS : vous pouvez également utilisé la commande suivante : `git checkout -b fea
 
 ### Tâches du sécond développeur après l'ajout des prix par le *owner*
 
-*Attendre d'être notifé par le *owner* de l'ajout des prix avant de faire la suite.
+***Attendre d'être notifé par le owner de l'ajout des prix avant de faire la suite.***
 
 7. En local, après avoir été notifié de l'ajout des prix par le *owner*.
 
